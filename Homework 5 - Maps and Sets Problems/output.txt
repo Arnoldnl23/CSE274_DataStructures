@@ -1,0 +1,431 @@
+[01001,01002,01003,01005,01007,01008,01009,01010,01011,01012,01013,01020,01022,01026,
+01027,01028,01029,01030,01031,01032,01033,01034,01035,01036,01037,01038,01039,01040,
+01050,01053,01054,01056,01057,01060,01062,01063,01066,01068,01069,01070,01071,01072,
+01073,01074,01075,01077,01079,01080,01081,01082,01083,01084,01085,01086,01088,01089,
+01092,01093,01094,01095,01096,01097,01098,01103,01104,01105,01106,01107,01108,01109,
+01118,01119,01128,01129,01151,01199,01201,01220,01222,01223,01224,01225,01226,01229,
+01230,01235,01236,01237,01238,01240,01242,01243,01244,01245,01247,01253,01254,01255,
+01256,01257,01258,01259,01260,01262,01264,01266,01267,01270,01301,01330,01331,01337,
+01338,01339,01340,01341,01342,01343,01344,01346,01347,01349,01350,01351,01354,01355,
+01360,01364,01366,01367,01368,01370,01373,01375,01376,01378,01379,01420,01430,01431,
+01432,01434,01436,01438,01440,01450,01451,01452,01453,01460,01462,01463,01464,01467,
+01468,01469,01473,01474,01475,01501,01503,01504,01505,01506,01507,01510,01515,01516,
+01518,01519,01520,01521,01522,01523,01524,01525,01527,01529,01531,01532,01534,01535,
+01536,01537,01540,01541,01542,01543,01545,01550,01560,01561,01562,01564,01566,01568,
+01569,01570,01571,01581,01583,01585,01588,01590,01602,01603,01604,01605,01606,01607,
+01608,01609,01610,01611,01612,01701,01702,01718,01719,01720,01721,01730,01731,01740,
+01741,01742,01745,01746,01747,01748,01749,01752,01754,01756,01757,01760,01770,01772,
+01773,01775,01776,01778,01801,01803,01810,01821,01824,01826,01827,01830,01832,01833,
+01834,01835,01840,01841,01843,01844,01845,01850,01851,01852,01854,01860,01862,01863,
+01864,01867,01876,01879,01880,01886,01887,01890,01901,01902,01904,01905,01906,01907,
+01908,01913,01915,01921,01922,01923,01929,01930,01937,01938,01940,01944,01945,01949,
+01950,01951,01952,01960,01966,01969,01970,01982,01983,01984,01985,02019,02021,02025,
+02026,02030,02032,02035,02038,02043,02045,02047,02048,02050,02052,02053,02054,02056,
+02061,02062,02066,02067,02071,02072,02081,02090,02093,02108,02109,02110,02111,02113,
+02114,02115,02116,02118,02119,02120,02121,02122,02124,02125,02126,02127,02128,02129,
+02130,02131,02132,02134,02135,02136,02138,02139,02140,02141,02142,02143,02144,02145,
+02148,02149,02150,02151,02152,02155,02163,02169,02170,02171,02176,02180,02184,02186,
+02188,02189,02190,02191,02199,02203,02210,02215,02301,02302,02322,02324,02330,02332,
+02333,02338,02339,02341,02343,02346,02347,02351,02356,02357,02359,02360,02364,02366,
+02367,02368,02370,02375,02379,02382,02420,02421,02445,02446,02451,02452,02453,02457,
+02458,02459,02460,02461,02462,02464,02465,02466,02467,02468,02472,02474,02476,02478,
+02481,02482,02492,02493,02494,02532,02534,02535,02536,02537,02538,02539,02540,02542,
+02543,02553,02554,02556,02557,02558,02559,02561,02562,02563,02564,02568,02571,02575,
+02576,02584,02601,02630,02631,02632,02633,02635,02637,02638,02639,02641,02642,02643,
+02644,02645,02646,02647,02648,02649,02650,02651,02652,02653,02655,02657,02659,02660,
+02663,02664,02666,02667,02668,02669,02670,02671,02672,02673,02675,02702,02703,02713,
+02715,02717,02718,02719,02720,02721,02723,02724,02725,02726,02738,02739,02740,02743,
+02744,02745,02746,02747,02748,02760,02762,02763,02764,02766,02767,02769,02770,02771,
+02777,02779,02780,02790,02791,]
+[Allen,Bartholomew,Clark,Delaware,Elkhart,Floyd,Hamilton,Hancock,Hendricks,Howard,
+Jackson,Johnson,LaPorte,Lake,Marion,Monroe,Morgan,Porter,St. Joseph,Tippecanoe,Vanderburgh,
+Vigo,Warrick,Wayne,]
+[Alabama,Alaska,Arizona,Arkansas,California,Colorado,Connecticut,Delaware,Florida,
+Georgia,Hawaii,Idaho,Illinois,Indiana,Iowa,Kansas,Kentucky,Louisiana,Maine,Maryland,
+Massachusetts,Michigan,Minnesota,Mississippi,Missouri,Montana,Nebraska,Nevada,New Hampshire,
+New Jersey,New Mexico,New York,North Carolina,North Dakota,Ohio,Oklahoma,Oregon,Pennsylvania,
+Rhode Island,South Carolina,South Dakota,Tennessee,Texas,Utah,Vermont,Virginia,Washington,
+West Virginia,Wisconsin,Wyoming,]
+Alabama---------->AL
+Alaska---------->AK
+Arizona---------->AZ
+Arkansas---------->AR
+California---------->CA
+Colorado---------->CO
+Connecticut---------->CT
+Delaware---------->DE
+Florida---------->FL
+Georgia---------->GA
+Hawaii---------->HI
+Idaho---------->ID
+Illinois---------->IL
+Indiana---------->IN
+Iowa---------->IA
+Kansas---------->KS
+Kentucky---------->KY
+Louisiana---------->LA
+Maine---------->ME
+Maryland---------->MD
+Massachusetts---------->MA
+Michigan---------->MI
+Minnesota---------->MN
+Mississippi---------->MS
+Missouri---------->MO
+Montana---------->MT
+Nebraska---------->NE
+Nevada---------->NV
+New Hampshire---------->NH
+New Jersey---------->NJ
+New Mexico---------->NM
+New York---------->NY
+North Carolina---------->NC
+North Dakota---------->ND
+Ohio---------->OH
+Oklahoma---------->OK
+Oregon---------->OR
+Pennsylvania---------->PA
+Rhode Island---------->RI
+South Carolina---------->SC
+South Dakota---------->SD
+Tennessee---------->TN
+Texas---------->TX
+Utah---------->UT
+Vermont---------->VT
+Virginia---------->VA
+Washington---------->WA
+West Virginia---------->WV
+Wisconsin---------->WI
+Wyoming---------->WY
+AK---------->238
+AL---------->642
+AR---------->591
+AZ---------->405
+CA---------->1761
+CO---------->525
+CT---------->282
+DE---------->67
+FL---------->981
+GA---------->735
+HI---------->94
+IA---------->934
+ID---------->277
+IL---------->1383
+IN---------->775
+KS---------->697
+KY---------->767
+LA---------->515
+MA---------->537
+MD---------->468
+ME---------->432
+MI---------->986
+MN---------->884
+MO---------->1022
+MS---------->423
+MT---------->361
+NC---------->808
+ND---------->383
+NE---------->581
+NH---------->248
+NJ---------->595
+NM---------->368
+NV---------->175
+NY---------->1794
+OH---------->1195
+OK---------->648
+OR---------->417
+PA---------->1795
+RI---------->77
+SC---------->424
+SD---------->371
+TN---------->628
+TX---------->1935
+UT---------->287
+VA---------->896
+VT---------->255
+WA---------->596
+WI---------->772
+WV---------->706
+WY---------->178
+A---------->[Alabama, Alaska, Arizona, Arkansas]
+C---------->[California, Colorado, Connecticut]
+D---------->[Delaware]
+F---------->[Florida]
+G---------->[Georgia]
+H---------->[Hawaii]
+I---------->[Idaho, Illinois, Indiana, Iowa]
+K---------->[Kansas, Kentucky]
+L---------->[Louisiana]
+M---------->[Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana]
+N---------->[Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota]
+O---------->[Ohio, Oklahoma, Oregon]
+P---------->[Pennsylvania]
+R---------->[Rhode Island]
+S---------->[South Carolina, South Dakota]
+T---------->[Tennessee, Texas]
+U---------->[Utah]
+V---------->[Vermont, Virginia]
+W---------->[Washington, West Virginia, Wisconsin, Wyoming]
+Alabama---------->4876208
+Alaska---------->736502
+Arizona---------->7052789
+Arkansas---------->2999384
+California---------->39275176
+Colorado---------->5610419
+Connecticut---------->3575074
+Delaware---------->957248
+Florida---------->20897314
+Georgia---------->10403889
+Hawaii---------->1422086
+Idaho---------->1717345
+Illinois---------->12770621
+Indiana---------->6665472
+Iowa---------->3139931
+Kansas---------->2910448
+Kentucky---------->4455468
+Louisiana---------->4663945
+Maine---------->1335409
+Maryland---------->6018848
+Massachusetts---------->6850495
+Michigan---------->9965250
+Minnesota---------->5563693
+Mississippi---------->2984377
+Missouri---------->6105180
+Montana---------->1051321
+Nebraska---------->1914903
+Nevada---------->2972730
+New Hampshire---------->1348172
+New Jersey---------->8878503
+New Mexico---------->2089676
+New York---------->19572194
+North Carolina---------->10264876
+North Dakota---------->755665
+Ohio---------->11653512
+Oklahoma---------->3933262
+Oregon---------->4129739
+Pennsylvania---------->12791171
+Rhode Island---------->1057231
+South Carolina---------->5020806
+South Dakota---------->870157
+Tennessee---------->6702780
+Texas---------->28259571
+Utah---------->3093167
+Vermont---------->624301
+Virginia---------->8454704
+Washington---------->7388766
+West Virginia---------->1817064
+Wisconsin---------->5790258
+Wyoming---------->581275
+America/Adak---------->269
+America/Anchorage---------->631396
+America/Boise---------->1409800
+America/Chicago---------->93900368
+America/Denver---------->13755726
+America/Detroit---------->9916872
+America/Indiana/Indianapolis---------->4996057
+America/Indiana/Knox---------->21421
+America/Indiana/Marengo---------->11281
+America/Indiana/Petersburg---------->15394
+America/Indiana/Tell_City---------->18608
+America/Indiana/Vevay---------->9148
+America/Indiana/Vincennes---------->125936
+America/Indiana/Winamac---------->12737
+America/Juneau---------->37991
+America/Kentucky/Louisville---------->380827
+America/Kentucky/Monticello---------->19672
+America/Los_Angeles---------->54093390
+America/Menominee---------->80578
+America/Metlakatla---------->1654
+America/Montreal---------->4
+America/New_York---------->135979382
+America/Nome---------->31591
+America/North_Dakota/Beulah---------->8617
+America/North_Dakota/Center---------->1042
+America/North_Dakota/New_Salem---------->31851
+America/Ojinaga---------->6171
+America/Phoenix---------->6940299
+America/Sitka---------->32952
+America/Toronto---------->74326
+America/Winnipeg---------->280
+America/Yakutat---------->649
+Pacific/Honolulu---------->1422086
+Alabama---------->[35242, 36117, 36695]
+Alaska---------->[99654]
+Arizona---------->[85008, 85009, 85022, 85032, 85033, 85035, 85037, 85041, 85122, 85142, 85201, 85204, 85225, 85281, 85282, 85283, 85301, 85308, 85326, 85338, 85345, 85364, 85365, 85383, 85705, 85706, 85710]
+Arkansas---------->[72401, 72712, 72764]
+California---------->[90001, 90002, 90003, 90004, 90006, 90011, 90018, 90019, 90022, 90024, 90026, 90034, 90037, 90042, 90044, 90046, 90047, 90057, 90063, 90066, 90201, 90220, 90221, 90250, 90255, 90262, 90280, 90631, 90640, 90650, 90660, 90703, 90706, 90723, 90731, 90744, 90745, 90805, 90813, 91304, 91331, 91335, 91342, 91343, 91344, 91402, 91405, 91406, 91605, 91702, 91706, 91709, 91710, 91730, 91732, 91744, 91745, 91761, 91762, 91764, 91766, 91767, 91770, 91786, 91801, 91910, 91911, 91913, 91950, 91977, 92020, 92021, 92024, 92025, 92026, 92027, 92056, 92057, 92069, 92071, 92078, 92084, 92105, 92111, 92113, 92114, 92115, 92117, 92126, 92128, 92129, 92130, 92154, 92201, 92223, 92234, 92243, 92324, 92335, 92336, 92345, 92346, 92376, 92392, 92399, 92404, 92407, 92503, 92504, 92505, 92507, 92509, 92530, 92553, 92557, 92562, 92563, 92570, 92571, 92584, 92592, 92620, 92626, 92627, 92630, 92646, 92647, 92656, 92677, 92683, 92691, 92701, 92703, 92704, 92707, 92708, 92780, 92801, 92804, 92805, 92833, 92840, 92870, 92880, 92882, 92886, 93003, 93030, 93033, 93063, 93065, 93117, 93215, 93230, 93257, 93274, 93277, 93291, 93306, 93307, 93308, 93309, 93312, 93313, 93436, 93458, 93535, 93536, 93550, 93551, 93722, 93727, 93905, 93906, 94015, 94080, 94086, 94087, 94109, 94110, 94112, 94122, 94501, 94509, 94513, 94533, 94536, 94538, 94539, 94541, 94544, 94550, 94558, 94565, 94568, 94587, 94591, 94601, 94806, 95014, 95020, 95023, 95035, 95037, 95051, 95076, 95111, 95112, 95116, 95122, 95123, 95124, 95125, 95127, 95206, 95207, 95350, 95355, 95376, 95608, 95616, 95624, 95630, 95648, 95670, 95687, 95747, 95757, 95758, 95823, 95828]
+Colorado---------->[80011, 80012, 80013, 80015, 80016, 80020, 80022, 80134, 80219, 80229, 80504, 80525, 80631, 80634]
+Connecticut---------->[06010, 06511, 06516, 06810, 06902]
+Delaware---------->[19702, 19711, 19720]
+Florida---------->[32068, 32162, 32174, 32210, 32218, 32225, 32244, 32246, 32259, 32703, 32765, 32771, 32792, 32808, 32818, 32822, 32825, 32828, 32837, 32839, 33012, 33015, 33016, 33018, 33023, 33024, 33025, 33027, 33032, 33033, 33063, 33064, 33065, 33068, 33125, 33126, 33142, 33157, 33161, 33165, 33175, 33176, 33177, 33178, 33186, 33196, 33311, 33312, 33313, 33411, 33414, 33415, 33458, 33463, 33467, 33511, 33578, 33612, 33647, 33810, 34711, 34744, 34787, 34953]
+Georgia---------->[30004, 30016, 30022, 30024, 30040, 30041, 30043, 30044, 30047, 30052, 30058, 30062, 30066, 30075, 30080, 30083, 30093, 30096, 30101, 30114, 30127, 30135, 30144, 30188, 30236, 30253, 30263, 30281, 30318, 30331, 30349, 30518, 30721, 30906, 30907, 31088, 31419, 31907]
+Hawaii---------->[96706, 96734, 96744, 96789, 96797, 96817, 96818, 96819]
+Idaho---------->[83301, 83646, 83709]
+Illinois---------->[60004, 60016, 60056, 60073, 60085, 60120, 60148, 60402, 60411, 60440, 60453, 60505, 60506, 60608, 60609, 60613, 60614, 60616, 60617, 60618, 60619, 60620, 60622, 60623, 60625, 60626, 60628, 60629, 60630, 60632, 60634, 60638, 60639, 60640, 60641, 60647, 60651, 60657, 60804, 61761]
+Indiana---------->[46032, 46143, 46227, 46307, 47906]
+Kansas---------->[66061, 66062, 67401]
+Kentucky---------->[40475, 40601, 41042, 42101, 42701]
+Louisiana---------->[70065, 70072, 70726]
+Maryland---------->[20744, 20850, 20874, 20878, 20902, 20904, 20906, 21061, 21117, 21122, 21206, 21215, 21222, 21234, 21740]
+Massachusetts---------->[01844, 01960, 02124, 02148, 02151, 02155, 02169, 02301, 02360, 02780]
+Michigan---------->[48044, 48103, 48180, 48187, 48197, 48228, 48823, 48858]
+Minnesota---------->[55044, 55106, 55124, 55901]
+Mississippi---------->[38654, 39503]
+Missouri---------->[63021, 63123, 63129, 63301, 63366, 63376, 65203, 65807]
+Montana---------->[59901]
+Nevada---------->[89030, 89031, 89052, 89074, 89103, 89108, 89110, 89115, 89117, 89119, 89121, 89123, 89129, 89131, 89147, 89148]
+New Jersey---------->[07002, 07030, 07047, 07055, 07083, 07087, 07093, 07104, 07105, 07111, 07305, 07306, 07470, 07728, 08081, 08527, 08701, 08753, 08831, 08854, 08861, 08873, 08901]
+New Mexico---------->[87105, 87111, 87114, 87120, 87121, 87124]
+New York---------->[10002, 10003, 10009, 10016, 10023, 10024, 10025, 10027, 10029, 10031, 10032, 10033, 10128, 10306, 10312, 10314, 10452, 10453, 10456, 10457, 10458, 10460, 10462, 10463, 10466, 10467, 10468, 10469, 10472, 10473, 10701, 10950, 10977, 11201, 11203, 11204, 11206, 11207, 11208, 11209, 11210, 11211, 11212, 11213, 11214, 11215, 11216, 11218, 11219, 11220, 11221, 11223, 11225, 11226, 11229, 11230, 11233, 11234, 11235, 11236, 11238, 11354, 11355, 11368, 11372, 11373, 11375, 11377, 11385, 11432, 11434, 11435, 11550, 11691, 11706, 11717, 11746, 11758, 12180, 12550, 14221, 14580, 14850]
+North Carolina---------->[27265, 27284, 27406, 27407, 27410, 27519, 27529, 27587, 27603, 27610, 27616, 27703, 27707, 27713, 27834, 27858, 28025, 28027, 28078, 28110, 28173, 28215, 28227, 28269, 28277, 28314, 28601, 28655]
+Ohio---------->[43015, 43026, 43055, 43068, 43081, 43123, 43130, 43228, 43229, 43230, 43302, 43701, 44035, 44060, 44077, 44107, 44256, 45011, 45013, 45040, 45044, 45069, 45140, 45424, 45601, 45840]
+Oklahoma---------->[73013, 73099, 73160, 74012]
+Oregon---------->[97006, 97007, 97045, 97124, 97206, 97223, 97229, 97301, 97402, 97701, 97702]
+Pennsylvania---------->[15601, 17331, 17601, 17602, 17603, 19020, 19067, 19104, 19111, 19120, 19124, 19134, 19140, 19143, 19148, 19149, 19320, 19380, 19382, 19446]
+South Carolina---------->[29072, 29223, 29229, 29445, 29464, 29483, 29485, 29681, 29730, 29732]
+Tennessee---------->[37013, 37027, 37040, 37042, 37064, 37066, 37075, 37122, 37128, 37129, 37130, 37167, 37211, 37421, 38017, 38305, 38401]
+Texas---------->[75002, 75006, 75007, 75023, 75025, 75034, 75035, 75040, 75043, 75052, 75056, 75061, 75067, 75068, 75070, 75071, 75074, 75080, 75098, 75115, 75149, 75150, 75211, 75216, 75217, 75227, 75228, 75243, 75287, 76010, 76028, 76051, 76063, 76116, 76119, 76133, 76137, 76179, 76244, 76542, 76549, 77015, 77036, 77070, 77072, 77077, 77081, 77082, 77083, 77084, 77088, 77089, 77095, 77099, 77346, 77373, 77375, 77379, 77386, 77388, 77396, 77407, 77429, 77433, 77449, 77450, 77459, 77469, 77479, 77494, 77498, 77521, 77546, 77573, 77584, 77840, 77845, 78045, 78046, 78130, 78207, 78223, 78227, 78228, 78233, 78240, 78245, 78247, 78249, 78250, 78251, 78254, 78501, 78504, 78520, 78521, 78542, 78550, 78572, 78574, 78577, 78586, 78596, 78613, 78640, 78641, 78660, 78664, 78666, 78681, 78741, 78744, 78745, 78748, 78753, 78852, 79907, 79912, 79924, 79928, 79936, 79938]
+Utah---------->[84003, 84015, 84041, 84043, 84074, 84095, 84096, 84118, 84119, 84120, 84404]
+Virginia---------->[20147, 20148, 20171, 20176, 22003, 22030, 22191, 22192, 22193, 22204, 22407, 22554, 23112, 23223, 23320, 23322, 23452, 23454, 23456, 23462, 23464, 23666, 24060]
+Washington---------->[98012, 98023, 98052, 98103, 98105, 98115, 98208, 98225, 98270, 98391, 98632, 98682, 99208, 99301, 99336]
+Wisconsin---------->[53215, 53711, 54601]
+[Adair,Adams,Albany,Alexander,Allegany,Alleghany,Allen,Anderson,Armstrong,Ashland,
+Atchison,Baker,Baldwin,Barbour,Barry,Barton,Bath,Bay,Beaufort,Beaver,Bedford,Bell,
+Benton,Berkeley,Berrien,Bibb,Big Horn,Blaine,Blount,Boone,Bourbon,Boyd,Bradford,Bradley,
+Bristol,Brooks,Brown,Brunswick,Bryan,Buchanan,Buena Vista,Buffalo,Burke,Butler,Butte,
+Caddo,Caldwell,Calhoun,Camden,Cameron,Campbell,Carbon,Caroline,Carroll,Carter,Cass,
+Cedar,Chambers,Champaign,Charlotte,Chase,Chatham,Chautauqua,Cherokee,Chester,Chesterfield,
+Cheyenne,Chickasaw,Chippewa,Choctaw,Christian,Claiborne,Clark,Clarke,Clay,Clayton,
+Clearwater,Cleburne,Cleveland,Clinton,Coffee,Colfax,Columbia,Comanche,Cook,Coos,Covington,
+Craig,Crawford,Crittenden,Crockett,Crook,Cumberland,Curry,Custer,Dade,Dakota,Dallas,
+Davidson,Daviess,Davis,Dawson,DeKalb,DeSoto,Decatur,Delaware,Delta,Deuel,Dewey,Dickinson,
+Dodge,Dorchester,Douglas,Dunn,Duval,Eddy,Edwards,Effingham,El Paso,Elbert,Elk,Ellis,
+Elmore,Emmet,Erie,Escambia,Essex,Fairfield,Fannin,Fayette,Fillmore,Florence,Floyd,
+Ford,Forest,Forsyth,Franklin,Frederick,Fremont,Fulton,Gallatin,Garfield,Genesee,Gibson,
+Giles,Gilmer,Gloucester,Golden Valley,Grady,Graham,Grand,Grant,Gray,Grayson,Greeley,
+Green,Greene,Greenwood,Grundy,Guadalupe,Hale,Halifax,Hall,Hamilton,Hampshire,Hampton,
+Hancock,Hardeman,Hardin,Harding,Harlan,Harper,Harris,Harrison,Hart,Haskell,Haywood,
+Henderson,Henry,Hickman,Hidalgo,Highland,Hill,Hillsborough,Holmes,Holt,Hopkins,Houston,
+Howard,Hughes,Humboldt,Humphreys,Huron,Hutchinson,Hyde,Iowa,Iron,Jackson,Jasper,Jeff Davis,
+Jefferson,Jefferson Davis,Johnson,Johnston,Jones,Juneau,Kane,Kendall,Kent,King,Kings,
+Kiowa,Knox,LaSalle,Lafayette,Lake,Lamar,Lancaster,Lane,Lauderdale,Laurens,Lawrence,
+Lee,Leon,Lewis,Liberty,Limestone,Lincoln,Linn,Livingston,Logan,Louisa,Lowndes,Lucas,
+Lyon,Macon,Madison,Marion,Marquette,Marshall,Martin,Mason,McDowell,McHenry,McIntosh,
+McLean,McPherson,Meade,Mecklenburg,Medina,Meigs,Menard,Menominee,Mercer,Miami,Middlesex,
+Midland,Miller,Mills,Mineral,Mississippi,Mitchell,Modoc,Monroe,Montgomery,Moore,Morgan,
+Morris,Morrow,Morton,Murray,Nassau,Nelson,Nemaha,Nevada,Newton,Nicholas,Noble,Norfolk,
+Northampton,Northumberland,Norton,Oconee,Ohio,Oldham,Oneida,Orange,Orleans,Osage,
+Osceola,Otero,Otsego,Ottawa,Ouachita,Owen,Page,Panola,Park,Paulding,Pawnee,Pendleton,
+Pennington,Perkins,Perry,Petersburg,Phelps,Phillips,Pickens,Pierce,Pike,Platte,Plymouth,
+Pocahontas,Polk,Pontotoc,Pope,Portage,Pottawatomie,Potter,Powell,Prairie,Pulaski,
+Putnam,Quitman,Ramsey,Randolph,Red River,Renville,Rice,Richland,Richmond,Ripley,Roane,
+Roberts,Robertson,Rock,Rockingham,Roosevelt,Rowan,Rush,Rusk,Russell,Rutherford,Sabine,
+Salem,Saline,San Juan,San Miguel,Santa Cruz,Schuyler,Scotland,Scott,Sedgwick,Seminole,
+Seneca,Sevier,Seward,Shelby,Sheridan,Sherman,Sierra,Simpson,Sioux,Smith,Somerset,
+Spencer,St. Charles,St. Clair,St. Joseph,St. Louis,Stafford,Stanton,Stark,Steele,
+Stephens,Steuben,Stevens,Stewart,Stone,Suffolk,Sullivan,Summit,Sumner,Sumter,Surry,
+Sussex,Talbot,Taylor,Tazewell,Terrell,Teton,Texas,Thomas,Thurston,Tioga,Tipton,Todd,
+Trinity,Turner,Tyler,Union,Upshur,Valley,Van Buren,Vermilion,Vernon,Wabash,Walker,
+Walton,Walworth,Ward,Warren,Washington,Wayne,Webster,Wells,Westmoreland,Wheeler,White,
+Whitley,Wichita,Wilcox,Wilkes,Wilkinson,Williams,Williamsburg,Williamson,Wilson,Windham,
+Winnebago,Winston,Wise,Wood,Woodford,Worcester,Worth,Wright,Wyoming,York,Yuma,]
+92
+Alabama---------->67
+Alaska---------->29
+Arizona---------->15
+Arkansas---------->75
+California---------->58
+Colorado---------->64
+Connecticut---------->8
+Delaware---------->3
+Florida---------->67
+Georgia---------->159
+Hawaii---------->5
+Idaho---------->44
+Illinois---------->102
+Indiana---------->92
+Iowa---------->99
+Kansas---------->105
+Kentucky---------->120
+Louisiana---------->64
+Maine---------->16
+Maryland---------->23
+Massachusetts---------->14
+Michigan---------->83
+Minnesota---------->87
+Mississippi---------->82
+Missouri---------->114
+Montana---------->56
+Nebraska---------->93
+Nevada---------->17
+New Hampshire---------->10
+New Jersey---------->21
+New Mexico---------->33
+New York---------->62
+North Carolina---------->100
+North Dakota---------->54
+Ohio---------->88
+Oklahoma---------->77
+Oregon---------->37
+Pennsylvania---------->67
+Rhode Island---------->5
+South Carolina---------->46
+South Dakota---------->66
+Tennessee---------->95
+Texas---------->254
+Utah---------->29
+Vermont---------->14
+Virginia---------->124
+Washington---------->39
+West Virginia---------->55
+Wisconsin---------->72
+Wyoming---------->23
+Alabama---------->[35242]
+Alaska---------->[99654]
+Arizona---------->[85364]
+Arkansas---------->[72401]
+California---------->[90011]
+Colorado---------->[80013]
+Connecticut---------->[06902]
+Delaware---------->[19720]
+Florida---------->[33024]
+Georgia---------->[30043]
+Hawaii---------->[96706]
+Idaho---------->[83646]
+Illinois---------->[60629]
+Indiana---------->[47906]
+Iowa---------->[50613]
+Kansas---------->[66062]
+Kentucky---------->[40475]
+Louisiana---------->[70726]
+Maine---------->[04401]
+Maryland---------->[20906]
+Massachusetts---------->[02301]
+Michigan---------->[48197]
+Minnesota---------->[55106]
+Mississippi---------->[39503]
+Missouri---------->[63376]
+Montana---------->[59901]
+Nebraska---------->[68516]
+Nevada---------->[89108]
+New Hampshire---------->[03103]
+New Jersey---------->[08701]
+New Mexico---------->[87121]
+New York---------->[11368]
+North Carolina---------->[27610]
+North Dakota---------->[58103]
+Ohio---------->[45011]
+Oklahoma---------->[73099]
+Oregon---------->[97006]
+Pennsylvania---------->[19120]
+Rhode Island---------->[02860]
+South Carolina---------->[29483]
+South Dakota---------->[57106]
+Tennessee---------->[37013]
+Texas---------->[77449]
+Utah---------->[84095]
+Vermont---------->[05401]
+Virginia---------->[22193]
+Washington---------->[99301]
+West Virginia---------->[26554]
+Wisconsin---------->[53215]
+Wyoming---------->[82001]
